@@ -1,0 +1,6 @@
+org.esa.sen2agri.reports.sentinel2.Sentinel2OrbitReport
+org.esa.sen2agri.reports.sentinel2.Sentinel2L2AAggregatedReport
+org.esa.sen2agri.reports.sentinel2.Sentinel2L2ADetailedReport
+org.esa.sen2agri.reports.landsat8.Landsat8OrbitReport
+org.esa.sen2agri.reports.landsat8.Landsat8L2AAggregatedReport
+org.esa.sen2agri.reports.landsat8.Landsat8L2ADetailedReport
